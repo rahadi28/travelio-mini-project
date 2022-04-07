@@ -1,0 +1,5 @@
+com\travelio\controller\GoogleBookController.class
+com\travelio\entity\GBVolumeInfoWrapper.class
+com\travelio\entity\GoogleBookWrapper.class
+com\travelio\Application.class
+com\travelio\entity\GoogleBookItemsWrapper.class
